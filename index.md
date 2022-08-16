@@ -5,3 +5,8 @@
 ##### This is an <h5> header
 ###### This is an <h6> header, which is the smallest
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
+'''
+$ git init
+Initialised empty Git repository in /users/skills/projects/recipe-repository/.git/
